@@ -8,7 +8,7 @@
         - [cite_start]Performed a comprehensive security audit for a simulated growing business, assessing controls and compliance with PCI DSS, GDPR, and SOC standards. [cite: 5, 70, 75]
         - [cite_start]Identified critical vulnerabilities in access control, data encryption, disaster recovery, and password management. [cite: 30, 31, 32, 37, 40]
         - [cite_start]Provided actionable recommendations to enhance security posture and ensure regulatory adherence. [cite: 86]
-        - [View Completed Audit Checklist (PDF)](https://github.com/steam1307/steam1307/blob/main/InternalSecurityaudit_Checklist_SaidAlHarthy.pdf)
+        - [View Completed Audit Checklist (PDF)]([https://github.com/steam1307/steam1307/blob/main/InternalSecurityaudit_Checklist_SaidAlHarthy.pdf](https://github.com/Steam1307/Steam1307/blob/main/InternalSecurityaudit_Checklist_SaidAlHarthy.pdf))
     </li>
     <li>
         I'm currently building my practical skills in cybersecurity and will be adding more projects here soon.
