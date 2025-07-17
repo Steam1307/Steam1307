@@ -18,7 +18,7 @@ Key findings revealed critical risks in:
 I developed actionable recommendations to improve their security posture and reduce overall risk exposure.
 
 #### 📁 Project Deliverables:
-- [📄 Security Audit Checklist (PDF)](https://github.com/Steam1307/Steam1307/blob/main/Audit_Documents/BotiumToys_Security_Audit_Checklist_Saidalharthy.pdf)  
+- [📄 Security Audit Checklist (PDF)](https://github.com/Steam1307/Steam1307/blob/main/Audit_Documents/BotiumToys_Security_Audit_Checklist_Saidalharthyy.pdf)  
 
 ---
 
