@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1>Hi, I'm Said Al Harthy! <br/><a href="https://www.linkedin.com/in/said-al-harthy-1b3a64186?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Cybersecurity Student</a></h1>
 
-<!--
-**Steam1307/Steam1307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+<p>
+    I'm currently building my practical skills in cybersecurity and will be adding projects here as I complete them through my studies and personal exploration.
+    Stay tuned for:
+</p>
+<ul>
+    <li>Security audit reports</li>
+    <li>Network defense configurations</li>
+    <li>Vulnerability assessments</li>
+    <li>Scripting for automation (e.g., Python, PowerShell)</li>
+    <li>And more!</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Said Al Harthy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/said-al-harthy-1b3a64186?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
