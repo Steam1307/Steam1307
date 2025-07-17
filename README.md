@@ -8,6 +8,7 @@
         - Performed a comprehensive security audit for a simulated growing business, assessing controls and compliance with PCI DSS, GDPR, and SOC standards.
         - Identified critical vulnerabilities in access control, data encryption, disaster recovery, and password management.
         - Provided actionable recommendations to enhance security posture and ensure regulatory adherence.
+        - [View Audit Scope, Goals, and Risk Assessment (PDF)](https://github.com/Steam1307/Steam1307/blob/main/botiumtoys_assessment.pdf)
         - [View Completed Audit Checklist (PDF)](https://github.com/Steam1307/Steam1307/blob/main/InternalSecurityaudit_Checklist_SaidAlHarthy.pdf)
     </li>
     <li>
