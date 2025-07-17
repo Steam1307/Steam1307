@@ -6,7 +6,7 @@
 ## 👨‍💻 Cybersecurity Projects
 
 ### 🔐 **Internal Security Audit: Botium Toys Assessment**
-Performed a comprehensive internal security audit for **Botium Toys**, a simulated small U.S. business.  
+Performed a comprehensive internal security audit for a fictional company called **Botium Toys**, a simulated small U.S. business.  
 This project included evaluating their IT assets, identifying vulnerabilities in controls, and assessing compliance with standards like **PCI DSS**, **GDPR**, and **SOC**.
 
 Key findings revealed critical risks in:
