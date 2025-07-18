@@ -10,7 +10,7 @@ Performed a comprehensive internal security audit for a fictional company called
 This project included evaluating their IT assets, identifying vulnerabilities in controls, and assessing compliance with standards like **PCI DSS**, **GDPR**, and **SOC**.
 
 #### 📁 Project Deliverables:
-- [📄 Security Audit Checklist (PDF)](https://github.com/Steam1307/Steam1307/blob/main/Audit_Documents/BotiumToys_Security_Audit_Checklist_Saidalharthyy1.pdf)  
+- [📄 Security Audit Checklist (PDF)](https://github.com/Steam1307/Steam1307/blob/main/google%20cybersecurity%20certifcate/BotiumToys_Security_Audit_Checklist_Saidalharthyy.pdf)  
 
 ---
 
