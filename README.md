@@ -3,19 +3,11 @@
 
 ---
 
-## 👨‍💻 Cybersecurity Projects
+## 👨‍💻 Google Cybersecurity Certificate Projects
 
 ### 🔐 **Internal Security Audit: Botium Toys Assessment**
 Performed a comprehensive internal security audit for a fictional company called **Botium Toys**, a simulated small U.S. business.  
 This project included evaluating their IT assets, identifying vulnerabilities in controls, and assessing compliance with standards like **PCI DSS**, **GDPR**, and **SOC**.
-
-Key findings revealed critical risks in:
-- Access control
-- Encryption
-- Password policies
-- Disaster recovery
-
-I developed actionable recommendations to improve their security posture and reduce overall risk exposure.
 
 #### 📁 Project Deliverables:
 - [📄 Security Audit Checklist (PDF)](https://github.com/Steam1307/Steam1307/blob/main/Audit_Documents/BotiumToys_Security_Audit_Checklist_Saidalharthyy1.pdf)  
